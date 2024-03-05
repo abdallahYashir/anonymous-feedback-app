@@ -6,14 +6,3 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 - [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
-## How to create a new Git Repo in 2 clicks
-
-No need to use:
-
-- terminal
-- create it manually etc ...
-
-Let's go.
-
-ENSURE -> you are logged in to your GitHub account in your browser in your machine.
-
